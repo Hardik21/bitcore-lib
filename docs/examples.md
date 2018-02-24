@@ -1,4 +1,4 @@
-# Bitcore examples
+# Bitcore examplesa1
 
 ## Generate a random address
 ```javascript
